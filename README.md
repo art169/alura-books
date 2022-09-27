@@ -1,3 +1,3 @@
 # alura-books
 
-#projeto de responsividade
+projeto de responsividade
